@@ -1,0 +1,696 @@
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 3
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 7
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 8
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 9
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 10
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 11
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 12
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Meshes/BaseMaterial.uasset" 13
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 14
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/FirstPersonOverview.uasset" 15
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/Geometry/Meshes/CubeMaterial.uasset" 16
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/Geometry/Meshes/TemplateFloor.uasset" 17
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/Images/door.uasset" 18
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 19
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.uasset" 20
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 21
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.uasset" 22
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonIdle.uasset" 23
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonRun.uasset" 24
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonWalk.uasset" 25
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 26
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 27
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Blueprints/PN_Bending_Component.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 29
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 30
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 31
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 32
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 33
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 34
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 35
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 36
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 37
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 38
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 39
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 40
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 41
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 42
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 43
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 44
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 45
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 46
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.uasset" 47
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter.uasset" 48
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Blueprints/ThirdPersonGameMode.uasset" 49
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_End.uasset" 50
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 51
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 52
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 53
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 54
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 55
+"../../../Engine/Content/BasicShapes/Cube.uasset" 56
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 57
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 58
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 59
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Water_N.uasset" 60
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 62
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 63
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 64
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 65
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 66
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Fire.uasset" 67
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSPlatform_BP.uasset" 68
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 69
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 70
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 71
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 72
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSDoorTest_BP.uasset" 73
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSDoor_BP.uasset" 74
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSPlatform_BP_Copy.uasset" 75
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Basic_Wall.uasset" 76
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Pillar_50x500.uasset" 77
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_400x300.uasset" 78
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_400x400.uasset" 79
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_500x500.uasset" 80
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 81
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 82
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Collapse01.uasset" 83
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Collapse02.uasset" 84
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Explosion01.uasset" 85
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Explosion02.uasset" 86
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Fire01.uasset" 87
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Fire_Sparks01.uasset" 88
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Light01.uasset" 89
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Light01_Cue.uasset" 90
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Light02.uasset" 91
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Light02_Cue.uasset" 92
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Smoke01.uasset" 93
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Birds01.uasset" 94
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Music01.uasset" 95
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Wind05.uasset" 96
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Wind06.uasset" 97
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Steam01.uasset" 98
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Explosion_Cue.uasset" 99
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Burst_M.uasset" 100
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Burst.uasset" 101
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 102
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 103
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 104
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 105
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Explosion.uasset" 106
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 107
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 108
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 109
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Bush_D.uasset" 110
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Bush_N.uasset" 111
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Bush.uasset" 112
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Bush.uasset" 113
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Chair_M.uasset" 114
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Chair_N.uasset" 115
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Chair.uasset" 116
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Couch.uasset" 117
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Glass.uasset" 118
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Door_M.uasset" 119
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Door_N.uasset" 120
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Door.uasset" 121
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Door.uasset" 122
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 123
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 124
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 125
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 126
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 127
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_RockMesh_M.uasset" 128
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_RockMesh_N.uasset" 129
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Rock.uasset" 130
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Rock.uasset" 131
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Shelf_M.uasset" 132
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Shelf_N.uasset" 133
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Shelf.uasset" 134
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Shelf.uasset" 135
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Basic_Floor.uasset" 136
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Stairs.uasset" 137
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Cone.uasset" 138
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 139
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 140
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Pipe.uasset" 141
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 142
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 143
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Plane.uasset" 144
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Torus.uasset" 145
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Trim.uasset" 146
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 147
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 148
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 149
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Tube.uasset" 150
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 151
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 152
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 153
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 154
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 155
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 156
+"../../../Engine/Content/BasicShapes/Cone.uasset" 157
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 158
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 159
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 160
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 161
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 162
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 163
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 164
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 168
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 169
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 170
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 171
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 174
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 175
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 176
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 177
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 178
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 179
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 180
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 181
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 182
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 183
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 184
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 185
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 186
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 187
+"../../../Engine/Content/EditorResources/S_Note.uasset" 188
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 189
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 190
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 191
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 192
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 193
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 194
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 195
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 196
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 197
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 198
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 199
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 200
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 212
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 214
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 215
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 216
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 217
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 218
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 220
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 228
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 232
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 235
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 236
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 237
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 239
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 241
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 243
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 244
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 245
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 251
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 252
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 253
+"../../../Engine/Content/EngineResources/Black.uasset" 254
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 255
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 256
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 258
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 259
+"../../../Engine/Content/EngineSounds/Master.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 262
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 263
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 264
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 265
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 266
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 284
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 285
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 286
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 287
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 288
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 289
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 291
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 297
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 298
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 299
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 300
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 301
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 302
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 303
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 304
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 305
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 306
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 307
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 311
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 312
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 313
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 314
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 315
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 316
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 317
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 318
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 319
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 320
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 321
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 322
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 323
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 324
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 325
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 326
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 327
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 328
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 329
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 330
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 331
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 332
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 333
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 334
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 335
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 336
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 337
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 338
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 339
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 340
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 341
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 342
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 343
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 344
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 345
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 346
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 347
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 348
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 349
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 350
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 351
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 352
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 353
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 354
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 355
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 356
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 357
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 358
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 359
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 360
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 361
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 362
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 363
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_MacroVariation.uasset" 364
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 365
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SS_SlidingDoor_BP.uasset" 366
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSDoor_BP_Original.uasset" 367
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/SAS_BP/SSPlatform_BP_Original.uasset" 368
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 369
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 370
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 371
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 372
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 373
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 374
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 375
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 376
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 377
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 378
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 379
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 380
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Gradinet_01.uasset" 381
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 382
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 383
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 384
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 385
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 386
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Ground_Grass.uasset" 387
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 388
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 389
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 390
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 391
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Statue_M.uasset" 392
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Statue_N.uasset" 393
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 394
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/Geometry/Meshes/1M_Cube.uasset" 395
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 399
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 400
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 407
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 409
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 410
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Functions/PN_Bending.uasset" 411
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Functions/PN_MultiBend.uasset" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 413
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/PN_WindParameters.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 416
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Functions/PN_WindAnimation.uasset" 417
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Functions/PN_BendingParameters.uasset" 418
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Functions/PN_AnimationShader.uasset" 419
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Bark_A.uasset" 420
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Bark_AORH.uasset" 421
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Bark_N.uasset" 422
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Leaf_A.uasset" 423
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Leaf_AORO.uasset" 424
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/Leaf_N.uasset" 425
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/MA_Pandanus.uasset" 426
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_05_PIV.uasset" 427
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_05_VEC.uasset" 428
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_05.uasset" 429
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_05_leaves.uasset" 430
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_05_trunk.uasset" 431
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_05.uasset" 432
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_02_PIV.uasset" 433
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_02_VEC.uasset" 434
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/small/MI_Pandanus_ground_02.uasset" 435
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/small/groundPlant_02.uasset" 436
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/TP_A.uasset" 437
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/TP_AORO.uasset" 438
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/MasterTextures/TP_N.uasset" 439
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/PN_TropicalTreePlant.uasset" 440
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_02_PIV.uasset" 441
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_02_VEC.uasset" 442
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_02.uasset" 443
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_02.uasset" 444
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_03_PIV.uasset" 445
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_03_VEC.uasset" 446
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_03.uasset" 447
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_03.uasset" 448
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 449
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Blueprints/CollisionBall.uasset" 450
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Blueprints/PN_GlobalUpdater.uasset" 451
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/water/MA_Water.uasset" 452
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/water/MI_Water.uasset" 453
+"../../../Engine/Content/BasicShapes/Plane.uasset" 454
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 455
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_01_PIV.uasset" 456
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_01_VEC.uasset" 457
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_01.uasset" 458
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_01_leaves.uasset" 459
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_01_trunk.uasset" 460
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_01.uasset" 461
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_02_PIV.uasset" 462
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_02_VEC.uasset" 463
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_02.uasset" 464
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_02_leaves.uasset" 465
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_02_trunk.uasset" 466
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_02.uasset" 467
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_03_PIV.uasset" 468
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_03_VEC.uasset" 469
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_03.uasset" 470
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_03_leaves.uasset" 471
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_03_trunk.uasset" 472
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_03.uasset" 473
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_04_PIV.uasset" 474
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_04_VEC.uasset" 475
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_04.uasset" 476
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_04_leaves.uasset" 477
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_04_trunk.uasset" 478
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_04.uasset" 479
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_06_PIV.uasset" 480
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_06_VEC.uasset" 481
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_06.uasset" 482
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_06_leaves.uasset" 483
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_06_trunk.uasset" 484
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_06.uasset" 485
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_07_PIV.uasset" 486
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/big/plant_07_VEC.uasset" 487
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MAI_Pandanus_plant_07.uasset" 488
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_07_leaves.uasset" 489
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_07_trunk.uasset" 490
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/big/bigplant_07.uasset" 491
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/MA_PandanusProps.uasset" 492
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/props/MI_PandanusProps.uasset" 493
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/props/groundProp_01.uasset" 494
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/props/groundProp_02.uasset" 495
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/props/groundProp_03.uasset" 496
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_01_PIV.uasset" 497
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_01_VEC.uasset" 498
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/small/MI_Pandanus_ground_01.uasset" 499
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/small/groundPlant_01.uasset" 500
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_03_PIV.uasset" 501
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/small/ground_03_VEC.uasset" 502
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/pandanus/small/MI_Pandanus_ground_03.uasset" 503
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/pandanus/small/groundPlant_03.uasset" 504
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_01_PIV.uasset" 505
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_01_VEC.uasset" 506
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_01.uasset" 507
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_01.uasset" 508
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_04_PIV.uasset" 509
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_04_VEC.uasset" 510
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_04.uasset" 511
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_04.uasset" 512
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_05_PIV.uasset" 513
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_05_VEC.uasset" 514
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_05.uasset" 515
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_05.uasset" 516
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_06_PIV.uasset" 517
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_06_VEC.uasset" 518
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_06.uasset" 519
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_06.uasset" 520
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_07_PIV.uasset" 521
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_07_VEC.uasset" 522
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_07.uasset" 523
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_07.uasset" 524
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_08_PIV.uasset" 525
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Textures/PivotPainter/treeplant/plant_08_VEC.uasset" 526
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_08.uasset" 527
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Meshes/treeplant/treeplant_08.uasset" 528
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/PN_Pandanus/Map/Showroom.umap" 529
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 530
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 531
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 532
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 533
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 534
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 535
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 536
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 537
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 538
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 539
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 540
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 541
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 542
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_AssetPlatform.uasset" 543
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 544
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 545
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 546
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 547
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 548
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 549
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 550
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 551
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/Advanced_Lighting.umap" 552
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 553
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 554
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 555
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 556
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 557
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 558
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Copper.uasset" 559
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Floor_400x400.uasset" 560
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 561
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Chair.uasset" 562
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Statue.uasset" 563
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Statue.uasset" 564
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_TableRound_M.uasset" 565
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_TableRound_N.uasset" 566
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_TableRound.uasset" 567
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_TableRound.uasset" 568
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/Minimal_Default.umap" 569
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Fire01_Cue.uasset" 570
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 571
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Smoke01_Cue.uasset" 572
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Smoke.uasset" 573
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 574
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 575
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Spark_Core.uasset" 576
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Spark.uasset" 577
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Sparks.uasset" 578
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 579
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Steam01_Cue.uasset" 580
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Steam_Lit.uasset" 581
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 582
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Lamp_M.uasset" 583
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Lamp_N.uasset" 584
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Lamp.uasset" 585
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 586
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 587
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 588
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 589
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 591
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 592
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 593
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 594
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 595
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 596
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 597
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 598
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 599
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 600
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 601
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 602
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 603
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 604
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 605
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 606
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 607
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 608
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 609
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 610
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 611
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 612
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 613
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 614
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 615
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 616
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 617
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 618
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 619
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 620
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 621
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 622
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 623
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 624
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 625
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 626
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 627
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Ground_Moss.uasset" 628
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 629
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Gold.uasset" 630
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 631
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Rust.uasset" 632
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 633
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 634
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Metal_Steel.uasset" 635
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 636
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 637
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 638
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 639
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 640
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Rock_Slate.uasset" 641
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 642
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 643
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 644
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 645
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 646
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 647
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 648
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 649
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 650
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 651
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 652
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Tech_Panel.uasset" 653
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Water_Lake.uasset" 654
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Water_M.uasset" 655
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Water_Ocean.uasset" 656
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 657
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 658
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 659
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 660
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 661
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 662
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 663
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 664
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Wood_Oak.uasset" 665
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 666
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 667
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Wood_Pine.uasset" 668
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 669
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 670
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 671
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_400x200.uasset" 672
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 673
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 674
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Collapse_Cue.uasset" 675
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 676
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 677
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 678
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 679
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/MaterialSphere.uasset" 680
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Frame_M.uasset" 681
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Textures/T_Frame_N.uasset" 682
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/Materials/M_Frame.uasset" 683
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_CornerFrame.uasset" 684
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_DoorFrame.uasset" 685
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_GlassWindow.uasset" 686
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_PillarFrame.uasset" 687
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_PillarFrame300.uasset" 688
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Props/SM_WindowFrame.uasset" 689
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Cube.uasset" 690
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 691
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Shapes/Shape_Sphere.uasset" 692
+"D:/Unreal Projects/OpenADoor_Final/Door2/Content/StarterContent/Maps/StarterMap.umap" 693
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 694
+"../../../Engine/Content/Maps/Entry.umap" 695
